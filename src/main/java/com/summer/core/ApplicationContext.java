@@ -2,8 +2,6 @@ package com.summer.core;
 
 import com.summer.annotation.ComponentScan;
 
-import java.lang.annotation.Annotation;
-
 /**
  * @author 余涛
  */
